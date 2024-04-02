@@ -1,0 +1,12 @@
+supervisor==4.2.2
+sqlalchemy==1.4.39
+pymysql==1.0.2
+requests==2.28.1
+beautifulsoup4==4.11.1
+pandas==1.5.0
+python-dotenv==0.21.1
+tqdm==4.64.1
+networkx==3.2.1
+cyrtranslit==1.1.1
+google-cloud-translate==2.0.1
+sentry-sdk==1.42.0
